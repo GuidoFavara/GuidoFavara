@@ -8,7 +8,8 @@ Hola 😄
 Soy un profesional de soporte de TI certificado por Google, que le encanta resolver problemas y crear nuevas cosas programando. Actualmente estoy por recibirme en front-end, con el objetivo de convertirme en full-stack. Todos mis proyectos van a estar en idioma INGLES y opcionalmente incluiré un README en ESPAÑOL.
 </p>
 
-  <strong>Lenguajes que manejo 🧑‍💻 </strong>
+
+  <strong>Lenguajes que manejo 💻 </strong>
 
 - JavaScript
 - HTML

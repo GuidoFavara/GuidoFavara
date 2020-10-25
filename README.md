@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**GuidoFavara/GuidoFavara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+<p align="center">
+Hola 😄 
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Soy un profesional de soporte de TI certificado por Google, que le encanta resolver problemas y crear nuevas cosas programando. Actualmente estoy por recibirme en front-end, con el objetivo de convertirme en full-stack. Todos mis proyectos van a estar en idioma INGLES y opcionalmente incluiré un README en ESPAÑOL.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <strong>Lenguajes que manejo 🧑‍💻 </strong>
+
+- JavaScript
+- HTML
+- CSS
+- PYTHON
+- C++ & C#
+
+
+### Contacto 📧 
+Email: guido.favara05@gmail.com
+
+### Redes sociales 🪐 
+<p align="center">
+  <a href="https://www.linkedin.com/in/brunocarusok" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="28px" width="28px" />
+  </a>

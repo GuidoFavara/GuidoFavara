@@ -22,6 +22,6 @@ Email: guido.favara05@gmail.com
 
 ### Redes sociales 🪐 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunocarusok" target="_blank">
+  <a href="https://www.linkedin.com/in/guido-favara/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="28px" width="28px" />
   </a>

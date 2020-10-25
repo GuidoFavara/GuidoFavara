@@ -11,7 +11,7 @@ Soy un profesional de soporte de TI certificado por Google, que le encanta resol
 
   <strong>Lenguajes que manejo 💻 </strong>
 
-- JavaScript
+- JavaScript + React
 - HTML
 - CSS
 - PYTHON

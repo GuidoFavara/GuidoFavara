@@ -15,6 +15,7 @@ Soy un profesional de soporte de TI certificado por Google, que le encanta resol
 - HTML
 - CSS
 - PYTHON
+- AUTOIT
 - C++ & C#
 
 

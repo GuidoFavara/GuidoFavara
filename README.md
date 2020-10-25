@@ -1,7 +1,7 @@
 
 ***
 <p align="center">
-Hola 😄 
+Hola! 
 </p>
 
 <p align="center">

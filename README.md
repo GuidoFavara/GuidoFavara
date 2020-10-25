@@ -5,7 +5,7 @@ Hola!
 </p>
 
 <p align="center">
-Soy un profesional de soporte de TI certificado por Google, que le encanta resolver problemas y crear nuevas cosas programando. Actualmente estoy por recibirme en front-end, con el objetivo de convertirme en full-stack. Todos mis proyectos van a estar en idioma INGLES y opcionalmente incluiré un README en ESPAÑOL.
+Soy un profesional de soporte de TI certificado por Google, que le encanta resolver problemas y crear nuevas cosas programando. Actualmente estoy por recibirme en front-end, con el objetivo de convertirme en full-stack. Todos mis proyectos van a estar en idioma INGLES y opcionalmente incluiré un README en ESPAÑOL. En mi LinkedIn pueden encontrar todos mis certificados
 </p>
 
 

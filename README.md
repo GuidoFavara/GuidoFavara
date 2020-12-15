@@ -30,5 +30,5 @@
 
 <p align="center">
 <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-nocreada.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/guido-favara"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:guido.favara05@gmail.co"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/guido-favara"><img src="https://img.shields.io/badge/-Guido%20Favara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:guido.favara05@gmail.co"><img src="https://img.shields.io/badge/-guido.favara05@gmail.comm-D14836?style=flat&logo=Gmail&logoColor=white"/></a>

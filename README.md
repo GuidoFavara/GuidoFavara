@@ -1,6 +1,6 @@
  ## 👋 &nbsp;Hey there! I'm Guido 
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
 🎓 &nbsp;Actualmente soy Desarrollador Front End y un profesional de soporte ténico certificado por Google.\

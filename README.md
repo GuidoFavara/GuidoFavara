@@ -1,5 +1,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Guido -->
-
+@settings {
+  font-size: 100;
+}
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\

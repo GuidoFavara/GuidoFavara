@@ -1,4 +1,4 @@
-### 👋 &nbsp;Hey there! I'm Guido 
+### 👋 &nbsp;Hey there! I'm Guido &nbsp
 
 ## 👨🏻‍💻 &nbsp;About Me
 

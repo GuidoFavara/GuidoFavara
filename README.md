@@ -5,7 +5,7 @@
 💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
 🎓 &nbsp;Actualmente soy Desarrollador Front End con React y un profesional de soporte ténico certificado por Google.\
 🌱 &nbsp;Estoy en proceso de ser Full Stack.\
-✍️</g-emoji>Entusiasta de AI.\
+✍️ &nbsp;Entusiasta de AI.\
 💬 &nbsp;Por lo general todos mis proyectos estan en Ingles.\
 ✉️ &nbsp;Podés mandarme un mail a guido.favara05@gmail.com!
 

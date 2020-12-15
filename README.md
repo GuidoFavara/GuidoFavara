@@ -48,12 +48,13 @@
 <a href="mailto:guido.favara05@gmail.com"><img src="https://img.shields.io/badge/-guido.favara05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 
-
+<!---  
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/GuidoFavara">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuidoFavara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <!---  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuidoFavara&layout=compact&langs_count=8&theme=algolia"/> --->
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuidoFavara&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+ --->

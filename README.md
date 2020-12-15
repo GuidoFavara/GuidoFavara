@@ -47,7 +47,7 @@
 <a href="https://linkedin.com/in/guido-favara"><img src="https://img.shields.io/badge/-Guido%20Favara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:guido.favara05@gmail.com"><img src="https://img.shields.io/badge/-guido.favara05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
-
+</p>
 <!---  
 ## ⚙️ &nbsp;GitHub Analytics
 

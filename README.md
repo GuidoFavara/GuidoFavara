@@ -5,9 +5,9 @@
 💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
 🎓 &nbsp;Actualmente soy Desarrollador Front End con React y un profesional de soporte ténico certificado en Google.\
 🌱 &nbsp;Estoy en proceso de ser Full Stack.\
-✍️</g-emoji>Entusiasta de AI
+✍️</g-emoji>Entusiasta de AI.\
 💬 &nbsp;Por lo general todos mis proyectos estan en Ingles.\
-✉️ &nbsp;Podés mandarme un mail a guido.favara05@gmail.com!.\
+✉️ &nbsp;Podés mandarme un mail a guido.favara05@gmail.com!
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,17 +25,6 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuidoFavara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuidoFavara&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 

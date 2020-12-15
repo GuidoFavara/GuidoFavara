@@ -1,4 +1,4 @@
- ## 👋 &nbsp;Hey there! I'm Guido 
+### 👋 &nbsp;Hey there! I'm Guido 
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -10,7 +10,7 @@
 ✉️ &nbsp;Podés mandarme un mail a guido.favara05@gmail.com!
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -36,7 +36,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)&nbsp;
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)&nbsp;
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 
@@ -44,7 +44,7 @@
 <a href="mailto:guido.favara05@gmail.com"><img src="https://img.shields.io/badge/-guido.favara05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/GuidoFavara">

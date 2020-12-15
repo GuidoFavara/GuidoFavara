@@ -1,6 +1,8 @@
 ### 👋 &nbsp;Hey there! I'm Guido
 
+
 ## 👨🏻‍💻 &nbsp;About Me
+
 
 💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
 🎓 &nbsp;Actualmente soy Desarrollador Front End y un profesional de soporte ténico certificado por Google.\
@@ -36,6 +38,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)&nbsp;
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)&nbsp;
+
+
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -43,6 +47,7 @@
 <a href="https://linkedin.com/in/guido-favara"><img src="https://img.shields.io/badge/-Guido%20Favara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:guido.favara05@gmail.com"><img src="https://img.shields.io/badge/-guido.favara05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 

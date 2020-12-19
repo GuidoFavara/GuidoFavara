@@ -9,6 +9,7 @@
 ✍️ &nbsp;Entusiasta de AI.\
 💬 &nbsp;Por lo general todos mis proyectos estan en Ingles.\
 ✉️ &nbsp;Podés mandarme un mail a guido.favara05@gmail.com!
+![](https://visitor-badge.glitch.me/badge?page_id=GuidoFavara)
 
 
 ## 🛠 &nbsp;Tech Stack
